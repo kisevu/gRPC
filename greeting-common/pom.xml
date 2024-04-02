@@ -9,6 +9,7 @@
 
     <groupId>com.ameda.kisevu</groupId>
     <artifactId>greeting-common</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>greeting-common</name>
